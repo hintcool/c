@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://hintcool.com/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "HintCool | The clothing manufacturer you can trust"
 theme         = "roxo-hugo"
 summarylength = 25
 
