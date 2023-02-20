@@ -1,6 +1,6 @@
 baseURL       = "https://hintcool.com/"
 languageCode  = "en-us"
-title         = "The clothing manufacturer you can trust"
+title         = "The Clothing Manufacturer You Can Trust"
 theme         = "roxo-hugo"
 summarylength = 25
 
