@@ -2,7 +2,7 @@
 title: "Shorts"
 date: 2022-12-26T15:44:46+06:00
 type: portfolio
-image: "images/projects/p2.png"
+image: "images/projects/p3.png"
 category: ["Summer"]
 project_images: ["images/projects/p3.png"]
 ---
