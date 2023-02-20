@@ -1,6 +1,6 @@
 ---
 title: "Cotton Coat"
-date: 20122-12-23T15:44:46+06:00
+date: 2022-12-23T15:44:46+06:00
 type: portfolio
 image: "images/projects/p1.png"
 category: ["Winter"]
