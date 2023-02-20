@@ -6,6 +6,7 @@ description : "As an apparel manufacturer in China, we have people with great ex
 
 ---
 ![our factory](https://hintcool.com/hcf.jpg)
+
 With a network of factories in Fujian Province, China, we are able to provide you with the fastest delivery times and outstanding quality, while keeping your costs to a minimum!
 
 
