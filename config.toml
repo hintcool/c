@@ -93,7 +93,7 @@ summarylength = 25
     [params.footer.contactInfo]
       title   = "Contact Info"
       address = "Longshi RD, Jinjiang, Quanzhou, Fujian, China, 362715"
-      phone   = "+86 17689373893"
+      phone   = "+8619859026662"
       email   = "joey@hintcool.com"
       # Footer Sitemap
       [params.footer.sitemap]
