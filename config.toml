@@ -65,7 +65,7 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We Are HintCool, The Clothing Manufacturer You Can Trust"
+    heading               = "HintCool Apparel, The Clothing Manufacturer You Can Trust"
     tagline               = "Fashions Fade, Style is Eternal"
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
